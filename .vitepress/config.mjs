@@ -16,14 +16,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Start Here', link: '/content/solo-founder-priority' },
-      { text: 'Complete Guide', link: '/content/complete-guide-strategies' },
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'API Examples', link: '/api-examples' }
-        ]
-      }
+      { text: 'Complete Guide', link: '/content/complete-guide-strategies' }
     ],
 
     sidebar: {
@@ -42,13 +35,6 @@ export default defineConfig({
           items: [
             { text: 'Start Here (Solo Founder)', link: '/content/solo-founder-priority' },
             { text: 'Complete Guide (Deep Dive)', link: '/content/complete-guide-strategies' }
-          ]
-        },
-        {
-          text: 'Examples',
-          items: [
-            { text: 'Markdown Examples', link: '/markdown-examples' },
-            { text: 'API Examples', link: '/api-examples' }
           ]
         }
       ]
