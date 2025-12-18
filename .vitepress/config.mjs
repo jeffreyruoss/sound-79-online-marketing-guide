@@ -9,6 +9,9 @@ export default defineConfig({
   base: process.env.GITHUB_ACTIONS && repoName ? `/${repoName}/` : '/',
   title: "Sound 79 Online Marketing Guide",
   description: "A practical marketing playbook for growing Sound 79 through the website.",
+  head: [
+    ['meta', { name: 'robots', content: 'noindex, nofollow' }]
+  ],
   cleanUrls: true,
   lastUpdated: true,
   themeConfig: {
