@@ -116,9 +116,11 @@ One 2,000-word article becomes 20+ pieces of content across platforms.
 
 ## 🔎 Month 2: Strategic Visibility
 
-### 6) Answer 10 Questions on Audio Engineering Forums
+### 6) "Sniper" Forum Participation (Keyword Alerts)
 
-Spend **30 minutes daily** authentically answering questions on:
+Instead of browsing for **30 minutes daily**, set up keyword alerts (using Google Alerts or specialized tools) for terms like "custom patchbay," "studio wiring help," or "cable noise issues."
+
+Only jump in when someone has a specific problem you can solve. This cuts time down to **15 minutes/week** while targeting high-intent buyers.
 
 - Reddit: r/audioengineering, r/recordingstudios, r/livesound
 - Gearslutz forums
@@ -135,9 +137,15 @@ Spend **30 minutes daily** authentically answering questions on:
 - Generates word-of-mouth referrals
 - Costs zero dollars
 
----
+### 7) The "Lumpy Mail" Strategy (Cold Outreach)
 
-### 7) Get 3–5 High-Quality Backlinks
+Identify 10 high-end studios in your region. Instead of a cold email, send a **physical sample** of your cable with a handwritten note.
+
+- **Cost:** ~$50 in shipping/materials.
+- **Open Rate:** ~100%.
+- **Impact:** Hard to ignore. It proves quality instantly.
+
+### 8) Get 3–5 High-Quality Backlinks
 
 Focus quality over quantity:
 
@@ -155,7 +163,7 @@ For guest posting: Pitch your pillar articles as expert contributions.
 
 ## 🤖 Month 3: Automation & Systems
 
-### 8) Set Up a Simple Email Sequence
+### 9) Set Up a Simple Email Sequence
 
 Use a free tier of email software (Mailchimp, ConvertKit, or Brevo free plans).
 
@@ -175,11 +183,13 @@ Use a free tier of email software (Mailchimp, ConvertKit, or Brevo free plans).
 
 ---
 
-### 9) Install Live Chat (AI-Powered)
+### 10) Install Live Chat (With Guardrails)
 
-Use a free AI chatbot like Tidio or Chatbase trained on your FAQ content:
+Use a free chatbot like Tidio or Chatbase trained on your FAQ content, but **restrict it to non-technical topics** (shipping, pricing, booking).
 
-- Answers technical questions 24/7
+**⚠️ Risk:** In high-end audio, a wrong technical answer destroys trust. Don't let AI hallucinate about "grounding schemes." If a user asks a technical question, the bot should say: _"That's a great technical question. I'll have [Your Name] email you the exact answer so it's 100% accurate."_
+
+- Answers basic questions 24/7
 - Captures leads when you're unavailable
 - Takes 2 hours to set up properly
 
@@ -298,10 +308,11 @@ The beauty of this approach: **every hour invested creates assets that work 24/7
 
 If you can only spend **5 hours this week** on marketing:
 
-1. **2 hours:** Rewrite your homepage and main service page to lead with direct answers and add question-based H2s
-2. **1 hour:** Add FAQ schema to your top 3 pages using a schema generator
-3. **1 hour:** Set up Google Business Profile (if applicable)
-4. **1 hour:** Write and schedule 3 LinkedIn posts from your existing knowledge
+1. **15 mins:** **Add a "Scarcity" statement.** As a solo founder, your capacity is a selling point. Add a banner or note: _"Currently accepting 2 new studio design projects for [Month]."_ This creates real urgency big brands can't fake.
+2. **2 hours:** Rewrite your homepage and main service page to lead with direct answers and add question-based H2s
+3. **1 hour:** Add FAQ schema to your top 3 pages using a schema generator
+4. **1 hour:** Set up Google Business Profile (if applicable)
+5. **45 mins:** Write and schedule 3 LinkedIn posts from your existing knowledge
 
 These 5 hours will generate more ROI than 40 hours of unfocused activity.
 

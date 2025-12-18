@@ -46,7 +46,7 @@ Professional audio buyers actively search for services like yours. Target keywor
 
 Long-tail keywords like "custom balanced audio cable manufacturer" or "patchbay consultation services" attract highly qualified leads with purchase intent.
 
-Optimize every product and service page with detailed technical specifications, cable types (XLR, TRS, RCA, DMX), connector options, and applications. This technical depth signals expertise to both search engines and potential customers.
+Optimize every product and service page with detailed technical specifications, cable types (XLR, TRS, RCA), lighting data cables (DMX), connector options, and applications. This technical depth signals expertise to both search engines and potential customers.
 
 ### Google My Business Optimization
 
@@ -387,6 +387,8 @@ The key is starting conservatively, testing thoroughly, and scaling only what co
 ### Recommended Starting Budget
 
 For testing Google Ads in your niche, allocate **$2,000-$3,000 per month minimum**. This provides enough data to test keywords, ad copy variations, and landing pages without burning through budget too quickly. Smaller budgets rarely generate sufficient data for optimization.
+
+**⚠️ Solo Founder Warning:** If this budget is out of reach, **do not run cold search ads**. Instead, spend $100-$200/mo strictly on **retargeting** (showing ads only to people who visited your site). This protects your cash flow while capturing low-hanging fruit.
 
 According to B2B budget benchmarks, small businesses under $5M in revenue typically allocate 7-8% of revenue to marketing total, with 13.9% of that marketing budget going to search advertising. Use these benchmarks to determine what's sustainable for your business.
 
